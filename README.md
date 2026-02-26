@@ -1,6 +1,28 @@
-#  About Me:
-Hi there  I’m Chinelo<br><br>I’m a B.Sc. student in International Business Information Systems based in Germany, bridging the gap between technology and business strategy.<br><br>My work sits at the intersection of marketing analytics, performance marketing, business intelligence, and data analytics. I am particularly interested in how data, automation, and AI can improve decision-making, optimize digital performance, and support business transformation.<br><br> What I’m Currently Focused On<br><br>Building end-to-end data analytics and BI projects (SQL → Data Modeling → Dashboarding → Insights)<br><br>Developing performance marketing analytics frameworks (KPIs, funnel analysis, conversion tracking)<br><br>Exploring AI-powered automation workflows for marketing and business processes<br><br>Continuously strengthening my technical foundation through structured courses and hands-on virtual job simulations<br><br> Core Interests<br><br>Marketing Analytics & Performance Optimization<br><br>Business Intelligence & Dashboard Development<br><br>Data-Driven Content Strategy<br><br>Predictive Analytics & Customer Insights<br><br>AI & No-Code Automation (e.g., n8n workflows)<br><br>Business Process & Digital Transformation<br><br>🛠 Technical Skills & Tools<br><br>Programming & Data<br><br>Python<br><br>SQL (MySQL)<br><br><br>Data Cleaning, Transformation & Analysis<br><br>Exploratory Data Analysis<br><br>ETL Pipeline<br><br> Machine Learning Models<br><br>Business Intelligence & Visualization<br><br>Power BI<br><br>Tableau<br><br>Excel (Advanced, VBA)<br><br>KPI Design & Dashboard Storytelling<br><br>Marketing & Analytics<br><br>GA4<br><br>SEO & Keyword Research<br><br>Performance Marketing Metrics (CTR, ROAS, CPA, Funnel Analysis)<br><br>A/B Testing & Campaign Optimization<br><br>Automation & Workflow Tools<br><br>n8n (workflow automation)<br><br>Mailchimp<br><br>HubSpot<br><br>WordPress<br><br> What You’ll Find on My GitHub<br><br>My repositories reflect practical, business-oriented problem solving, including:<br><br>End-to-end BI solutions (data warehouse design, star schema, dashboards)<br><br>Predictive modeling projects in Python<br><br>Marketing analytics case studies<br><br>Retail and performance data analysis<br><br>Structured project management simulations<br><br>Each project focuses not just on technical implementation, but on translating data into clear business insights and strategic recommendations.<br><br> How I Grow<br><br>I grow by:<br><br>Taking rigorous online certifications<br><br>Completing virtual internships and job simulations<br><br>Building structured academic and personal projects<br><br>Applying business storytelling to technical solutions<br><br>I believe real growth comes from combining theory with execution.<br><br> Open to Collaborations<br><br>I’m open to collaborating on:<br><br>Marketing analytics projects<br><br>BI dashboard development<br><br>Automation workflows<br><br>Data-driven case studies<br><br> Let’s Connect<br><br>LinkedIn:<br>https://www.linkedin.com/in/chinelo-nweke
+# About Me
 
+Hi, I’m Chinelo, a B.Sc. student in International Business Information Systems based in Germany.
+
+I bridge the gap between technology and business, with a focus on marketing analytics, performance marketing, business intelligence, and AI-driven automation. I’m passionate about turning data into clear business insights that improve decision-making and digital performance.
+
+ Focus Areas
+
+End-to-end Data & BI projects (SQL → Data Modeling → Dashboards → Insights)
+Performance marketing analytics (KPIs, funnel analysis, conversion tracking)
+AI & workflow automation for business processes
+Continuous growth through certifications, projects, and virtual job simulations
+
+Tech Stack
+Data & Programming: Python, SQL (MySQL), ETL, EDA, Machine Learning
+BI & Visualization: Power BI, Tableau, Excel (Advanced/VBA), KPI Design
+Marketing Analytics: GA4, SEO, A/B Testing, ROAS, CTR, CPA
+Automation & Tools: n8n, HubSpot, Mailchimp, WordPress
+
+On My GitHub
+End-to-end BI solutions (data warehouse, star schema, dashboards)
+Predictive modeling projects
+Marketing & retail analytics case studies
+Structured project simulations
+Each project focuses on translating data into actionable business strategy.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinelo-nweke/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nwekecl16046@gmail.com) 
@@ -13,10 +35,10 @@ Hi there  I’m Chinelo<br><br>I’m a B.Sc. student in International Business I
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinelo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chinelo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Chinelo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chinelo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chinelo&icon=0&color=0)](https://visitcount.itsvg.in)
